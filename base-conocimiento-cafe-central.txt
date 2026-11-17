@@ -1,0 +1,9 @@
+CAFÉ CENTRAL - INFORMACIÓN OFICIAL
+Café Central es una cafetería ficticia ubicada en Buenos Aires.
+DIRECCIÓN Av. Santa Fe 1500, Ciudad de Buenos Aires.
+HORARIOS Lunes a viernes: 8:00 a 20:00. Sábados: 9:00 a 20:00. Domingos: 9:00 a 18:00.
+MENÚ Y PRECIOS Café espresso: $3.000. Café con leche: $3.800. Capuchino: $4.200. Medialuna: $1.500. Tostado de jamón y queso: $6.500. Porción de torta: $5.000.
+MEDIOS DE PAGO Efectivo, tarjetas de débito, crédito y Mercado Pago.
+SERVICIOS Wi-Fi gratuito. Consumo en el local y pedidos para llevar. No se realizan reservas de mesas.
+ATENCIÓN AL CLIENTE Las consultas sobre reclamos, alergias alimentarias, pedidos especiales o información que no figure en este documento deben derivarse a una persona del negocio.
+El asistente no puede confirmar pedidos, reservas ni inventar precios u horarios.
